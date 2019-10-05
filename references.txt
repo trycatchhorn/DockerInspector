@@ -1,0 +1,122 @@
+Common web application architectures:
+-------------------------------------
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+
+Examples of clean architecture:
+--------------------------------
+https://github.com/ardalis/CleanArchitecture
+https://github.com/JasonGT/NorthwindTraders
+
+Onion Architecture In ASP.NET Core MVC:
+---------------------------------------
+https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/
+
+Cross-platform development with .NET Core (Scaffold multi-project-solution):
+----------------------------------------------------------------------------
+https://marnee.silvrback.com/cross-platform-development-with-net-core-and-f
+
+How YOU can get started with .NET Core and C# in VS Code (setup project and tests):
+-----------------------------------------------------------------------------------
+https://softchris.github.io/pages/dotnet-core.html#resources
+
+Introduction to .NET Core:
+--------------------------
+https://medium.com/net-core/introduction-to-net-core-adbf1962d57d
+
+How To Build a RESTful API with ASP.NET Core:
+---------------------------------------------
+https://medium.com/net-core/how-to-build-a-restful-api-with-asp-net-core-fb7dd8d3e5e3
+
+ASP.NET Core MVC Web Application (Project Structure):
+-----------------------------------------------------
+https://medium.com/net-core/asp-net-core-mvc-web-application-project-structure-3ccaa244fa66
+
+Advanced Architecture for ASP.NET Core Web API:
+-----------------------------------------------
+https://www.infoq.com/articles/advanced-architecture-aspnet-core/
+
+Step by Step implementing Onion architecture in ASP.NET MVC Application:
+------------------------------------------------------------------------
+https://debugmode.net/2015/04/17/step-by-step-implementing-onion-architecture-in-asp-net-mvc-application/
+
+Onion Architecture in .NET Core:
+--------------------------------
+https://marcroussy.com/2018/07/01/onion-architecture-in-net-core/
+
+Repository Pattern Implementation in ASP.NET Core:
+--------------------------------------------------
+https://medium.com/net-core/repository-pattern-implementation-in-asp-net-core-21e01c6664d7
+
+Organize your project to support both .NET Framework and .NET Core:
+-------------------------------------------------------------------
+https://github.com/dotnet/docs/blob/master/docs/core/porting/project-structure.md
+
+Episode 14 - Templating in .NET Core:
+-------------------------------------
+https://dotnetcore.show/episode-14-templating-in-net-core/
+
+Introduction – ASP.NET Core Best Practices:
+-------------------------------------------
+https://codingblast.com/asp-net-core-best-practices/
+
+Project Folder Structure of ASP NET Core 2.0 Application:
+---------------------------------------------------------
+https://dotnetdetail.net/project-folder-structure-of-asp-net-core-2-0-application/
+
+Building ASP.NET Core Web APIs with Clean Architecture:
+-------------------------------------------------------
+https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
+
+ASP.NET MVC - Creating Solutions with Separate Projects for Entities, Data Access, and Website Functionality:
+-------------------------------------------------------------------------------------------------------------
+https://www.pluralsight.com/guides/asp-net-mvc-creating-solutions-with-separate-projects-for-entities-data-access-and-website-functionality
+
+Creating Web API in ASP.NET Core 2.0:
+-------------------------------------
+https://www.codingame.com/playgrounds/35462/creating-web-api-in-asp-net-core-2-0/part-1---web-api
+
+MVC vs. Web API: Which ASP.NET technology should you use:
+---------------------------------------------------------
+https://www.software-developer-india.com/mvc-vs-web-api-which-asp-net-technology-should-you-use/
+
+How to Bootstrap and Create .NET Projects:
+------------------------------------------
+https://www.toptal.com/dot-net/bootstrap-and-create-dot-net-projects
+
+.NET naming conventions for solution with .NET Standard, .NET Core and .NET Framwork Projects:
+----------------------------------------------------------------------------------------------
+https://stackoverflow.com/questions/41746575/net-naming-conventions-for-solution-with-net-standard-net-core-and-net-fram
+
+.NET Client for Docker Remote API:
+----------------------------------
+https://discoverdot.net/projects/docker-dotnet
+
+C# (CSharp) Docker.DotNet DockerClientConfiguration Examples:
+-------------------------------------------------------------
+https://csharp.hotexamples.com/examples/Docker.DotNet/DockerClientConfiguration/-/php-dockerclientconfiguration-class-examples.html
+
+Running Docker Containers from within your .NET Core Application using Docker.DotNet:
+-------------------------------------------------------------------------------------
+https://www.danieldonbavand.com/dockerdotnet/
+
+Asynchronous message-based communication:
+-----------------------------------------
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication
+
+Organize your project to support both .NET Framework and .NET Core:
+-------------------------------------------------------------------
+https://docs.microsoft.com/en-us/dotnet/core/porting/project-structure
+
+10 commands you don't want to be without in .Net Core:
+------------------------------------------------------
+https://dev.to/dotnet/10-commands-you-don-t-want-to-be-without-in-net-core-40gi
+
+How to Use .NET Core CLI to Create a Multi-Project Solution:
+------------------------------------------------------------
+https://www.skylinetechnologies.com/Blog/Skyline-Blog/February_2018/how-to-use-dot-net-core-cli-create-multi-project
+
+Naming Guidelines:
+------------------
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
+
+
