@@ -99,6 +99,10 @@ Running Docker Containers from within your .NET Core Application using Docker.Do
 -------------------------------------------------------------------------------------
 https://www.danieldonbavand.com/dockerdotnet/
 
+Integration testing using a docker container:
+---------------------------------------------
+https://www.meziantou.net/integration-testing-using-a-docker-container.htm
+
 Asynchronous message-based communication:
 -----------------------------------------
 https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication
